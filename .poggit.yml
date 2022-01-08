@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Noobxbg/tampoline
+build-by-default: true
+branches:
+- main
+projects: 
+Tampoline:
+    path: ""
+  
+...
