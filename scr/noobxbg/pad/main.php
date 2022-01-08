@@ -8,6 +8,7 @@ use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 
 use pocketmine\event\Listener;
+use pocketmine\event\player\PlayerMoveEvent;
 
 use pocketmine\math\Vector3;
 
